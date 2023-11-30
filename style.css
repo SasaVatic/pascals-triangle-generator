@@ -95,7 +95,7 @@ h1 {
   flex-direction: column;
   align-items: start;
   padding: 0.625rem 1.25rem;
-  max-width: 14.6875rem;
+  max-width: 15rem;
 }
 
 input[type="number"] {
